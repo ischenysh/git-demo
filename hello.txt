@@ -2,3 +2,4 @@ hello, world!
 hello, world! master test
 hello, world! in github
 hello, world! in local
+hello, world! ssh demo
